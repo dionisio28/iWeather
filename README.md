@@ -12,12 +12,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios/)
 - [React-Native Get Location](https://github.com/douglasjunior/react-native-get-location/)
-- [API da OpenWeather] (https://openweathermap.org/api)
+- [API da OpenWeathe](https://openweathermap.org/api/)
+
 ## 💻 Projeto
 
-Utilitario para visualizar o clima em sua região.
-
-Para executar o projeto faça um clone deste repositório em usa máquina.
+Utilitario para visualizar o clima atual da sua região.
 
 <p align="center">
   <img alt="Frontend" src="src/assets/image.png" width="50%" height="50%">
