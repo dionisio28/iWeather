@@ -19,5 +19,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Utilitario para visualizar o clima atual da sua região.
 
 <p align="center">
-  <img alt="Frontend" src="src/assets/image.png" width="50%" height="50%">
+  <img alt="Print" src="src/assets/image.png" width="50%" height="50%">
 </p>
