@@ -22,7 +22,7 @@ export const SubTitle = styled.Text`
 `;
 
 export const MainContainer = styled.SafeAreaView`
- background-color: #fac83e;
+ background-color: #2d98da;
  flex: 1;
  justify-content: flex-start
 `;
@@ -47,7 +47,7 @@ export const ContainerRow = styled.View`
 `
 
 export const HeaderContaienr = styled.View`
-  background-color: #e3ae17;
+  background-color: #1685c9;
   padding: 12px;
   align-items: center;
   border-bottom-left-radius: 25px;
